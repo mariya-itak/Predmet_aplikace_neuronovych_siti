@@ -1,0 +1,1 @@
+Předmět studovaný na Technické univerzitě v Liberci, specializace Informační technologie. Předmět se zabýval pojmy, které se týkají neuronových sítí (např., lineární klasifikace, zpětná propgace). Cvičení aplikace obsahovaly aplikace zmíněných pojmů v praxi.
